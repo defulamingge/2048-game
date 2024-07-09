@@ -1,5 +1,4 @@
 import game
-import os
 
 # This is the main function that runs the game.
 def main():
